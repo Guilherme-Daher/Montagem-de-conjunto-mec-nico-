@@ -3,8 +3,6 @@
 ## Sobre o Projeto
 Executar a montagem e a medição técnica dos componentes para avaliar o desempenho do conjunto e compreender a dinâmica de seu funcionamento mecânico.
 
-**Repositório:** [Link aqui](https://github.com/Guilherme-Daher/Montagem-de-conjunto-mec-nico-)
-
 ## Equipe
 * **Guilherme Daher** – RM98611
 * **Gabriel Freitas** – RM550187
