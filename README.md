@@ -8,7 +8,7 @@ Executar a montagem e a medição técnica dos componentes para avaliar o desemp
 * **Gabriel Freitas** – RM550187
 * **Heitor Nobre** – RM551539
 * **Lucca Alexandre** – RM99700
-* **Vinicius**
+* **Vinicius Yamashita** – RM550908
 
 ## Peças contidas no kit
 | Peça | Dimensão |
